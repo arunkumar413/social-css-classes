@@ -10,7 +10,7 @@ Let's, for example, take the below example. It consists of a post that has a cer
 
 ### Who will manage the CSS classes?
 
-The list and the hierarchy of CSS classes will have to be publised by the content aggreators, search engine companies and app developers. For example, Facebook,Google or any new entity can ask the content creators to tag the posts with the classs names such as `fb-social-post` or `fb-social-summary`.
+The list and the hierarchy of CSS classes will have to be publised by the content aggreators, search engine companies and app developers. For example, Facebook,Google or any new entity can ask the content creators to tag the posts with the classs names such as `fb-social-post` or `fb-social-summary`. Here is the demo ( https://stackblitz.com/edit/react-lrevjx?file=src%2FApp.js )
 
 These classes are not standard CSS classes but followed as a convertion by differnet content aggregators.
 
