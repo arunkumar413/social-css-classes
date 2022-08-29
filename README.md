@@ -6,7 +6,7 @@ The traditioal HTML such as `<article> <section> <footer> <div> <header>` are in
 
 What if we leverage the power of CSS classes to tag the content? Using CSS classes for tagging content would give user maxium power and flexibility to mark up the content.
 
-Let's, for example, take the below example. It consists of a post that has a certain structure tagged with CSS classes. These classes and content inside them can be read by the search engines, content aggregators, apps, AI/ML tools to create their own meta content to publish on their platforms. The existing social media apps can also access the content this way and push a meta content on their platforms that link to the original location of the post.
+For example, consider the below code. It consists of a post that has a certain structure tagged with CSS classes. These classes and content inside them can be read by the search engines, content aggregators, apps, AI/ML tools to create their own meta content to publish on their platforms. The existing social media apps can also access the content this way and push a meta content on their platforms that link to the original location of the post.
 
 ### Who will manage the CSS classes?
 
